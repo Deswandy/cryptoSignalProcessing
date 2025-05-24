@@ -1,5 +1,4 @@
 # cryptoSignalProcessing
-<h1>UAS DSP</h1>
 <p>Tujuan dari program ini adalah untuk melakukan analisis korelasi antara beberapa cryptocurrency pada siklus mingguan dan bulanan. Satuan Hz dalam bentuk siklus/hari</p>
 
 <hr>
