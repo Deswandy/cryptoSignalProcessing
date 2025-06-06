@@ -16,6 +16,4 @@ function b = designFilter(f1, f2, fs, n, plotTitle)
     grid on;
     hold on;
     yl = ylim;
-    plot([1/7 1/7], yl, 'r--', 'LineWidth', 1.2);
-    legend('Gain', '1/7 Hz target');
 end
